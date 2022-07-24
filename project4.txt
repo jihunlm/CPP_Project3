@@ -1,0 +1,5 @@
+This is casino game where the player starts with $1000 and guesses a number after betting certain amount. 
+The player loses the game if he loses all his money.
+
+Things to do : 
+Need to add the function to write a file that orders players' names in the order of number of tries the players had in the decreasing order.  
