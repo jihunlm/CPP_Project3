@@ -1,0 +1,5 @@
+SNO, Name, NoOfPeopleLiked
+1,Jihn,3
+2,Jihun_Kim,3
+3,Kim,5
+5,Galaxy,5
